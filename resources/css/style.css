@@ -13,6 +13,7 @@ h1 {
 a {
     color: aquamarine;
     font-size: 16px;
+    font-family: Verdana, sans-serif;
 }
 
 .second-header {
@@ -23,11 +24,13 @@ a {
 .main-text {
     font-size: 21px;
     color: gray;
+    font-family: Verdana, sans-serif;
 }
 
 footer {
     text-align: right;
     color: gray;
+    font-family: Verdana, sans-serif;
 }
 
 img {
